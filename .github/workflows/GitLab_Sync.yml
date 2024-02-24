@@ -23,7 +23,7 @@ jobs:
           fetch-depth: '0'  # Fetch all history
 
       - name: '🔄 Mirror to gitlab'
-        uses: pixta-dev/repository-mirroring-action@v1
+        uses: pixta-dev/repository-mirroring-action@v1.1.1
         with:
           target_repo_url: git@jihulab.com:WizisCool/KiKHanbot.git
           ssh_private_key: ${{ secrets.GITLAB_SSH_PRIVATE_KEY }}

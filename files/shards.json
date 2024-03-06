@@ -8,10 +8,6 @@
                 "win_rate": 0.6439
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0115,
@@ -48,10 +44,6 @@
                 "win_rate": 0.5978
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0168,
@@ -76,10 +68,6 @@
                 "win_rate": 0.64
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.119,
@@ -90,10 +78,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.7766,
                 "win_rate": 0.6263
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0121,
@@ -106,10 +90,6 @@
                 "id": "Creator of Elo - Azir",
                 "pick_rate": 0.8508,
                 "win_rate": 0.7168
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "DemonAIO",
@@ -136,10 +116,6 @@
                 "win_rate": 0.6226
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0042,
@@ -164,10 +140,6 @@
                 "win_rate": 0.65
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0685,
@@ -186,6 +158,10 @@
                 "win_rate": 1
             },
             {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7113,
@@ -198,14 +174,14 @@
                 "win_rate": 1
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1302,
                 "win_rate": 0.7714
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -224,10 +200,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0524,
                 "win_rate": 0.625
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "DemonAIO",
@@ -272,14 +244,14 @@
                 "win_rate": 0.625
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0139,
                 "win_rate": 0.7778
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -298,10 +270,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0129,
                 "win_rate": 0.6154
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -328,10 +296,6 @@
                 "win_rate": 0.6571
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.003,
@@ -350,10 +314,6 @@
                 "win_rate": 0.7143
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0971,
@@ -366,8 +326,8 @@
                 "win_rate": 0.5714
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[Viktor]AIO",
@@ -386,10 +346,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0678,
                 "win_rate": 0.5034
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "DemonAIO",
@@ -416,8 +372,8 @@
                 "win_rate": 0.5293
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[Viktor]AIO",
@@ -432,10 +388,6 @@
     "Galio": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0114,
@@ -446,10 +398,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9811,
                 "win_rate": 0.5483
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -468,10 +416,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.5782,
                 "win_rate": 0.6164
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -498,10 +442,6 @@
                 "win_rate": 0.5429
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0052,
@@ -518,10 +458,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0143,
                 "win_rate": 0.5714
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "DemonAIO",
@@ -548,10 +484,6 @@
                 "win_rate": 0.5846
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0082,
@@ -574,10 +506,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0061,
                 "win_rate": 0.7619
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "CXJ AIO",
@@ -634,10 +562,6 @@
                 "win_rate": 0.6517
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0036,
@@ -666,10 +590,6 @@
                 "id": "archer",
                 "pick_rate": 0.0018,
                 "win_rate": 1
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -708,10 +628,6 @@
                 "win_rate": 0.6694
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0062,
@@ -742,10 +658,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.059,
@@ -774,10 +686,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0499,
                 "win_rate": 0.5909
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0055,
@@ -790,10 +698,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0026,
                 "win_rate": 0.5
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "DemonAIO",
@@ -826,10 +730,6 @@
                 "win_rate": 0.6111
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0059,
@@ -848,10 +748,6 @@
                 "win_rate": 0.8
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.045,
@@ -862,10 +758,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9144,
                 "win_rate": 0.5862
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -880,10 +772,6 @@
     "Evelynn": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.1674,
@@ -894,10 +782,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8235,
                 "win_rate": 0.5687
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -916,10 +800,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0191,
                 "win_rate": 0.6667
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "DemonAIO",
@@ -952,10 +832,6 @@
                 "win_rate": 0.7059
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0298,
@@ -978,10 +854,6 @@
                 "id": "archer",
                 "pick_rate": 0.0368,
                 "win_rate": 0.6316
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -1014,10 +886,6 @@
                 "win_rate": 0.6292
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0058,
@@ -1035,10 +903,6 @@
     },
     "Camille": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -1070,10 +934,6 @@
                 "win_rate": 0.6842
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Camille",
                 "pick_rate": 0.8,
@@ -1102,10 +962,6 @@
                 "id": "archer",
                 "pick_rate": 0.0032,
                 "win_rate": 0.6875
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "DemonAIO",
@@ -1154,10 +1010,6 @@
                 "win_rate": 0.6702
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.003,
@@ -1188,10 +1040,6 @@
                 "win_rate": 0.5294
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO",
                 "pick_rate": 0.0098,
@@ -1202,6 +1050,10 @@
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0036,
                 "win_rate": 0.62
+            },
+            {
+                "name": "EzAIO",
+                "id": "Ez_AIO"
             },
             {
                 "name": "Fx",
@@ -1246,6 +1098,10 @@
                 "win_rate": 0.6703
             },
             {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
+            },
+            {
                 "name": "Mage AIO",
                 "id": "Mage AIO",
                 "pick_rate": 0.5334,
@@ -1270,10 +1126,6 @@
                 "win_rate": 0.7354
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0252,
@@ -1284,6 +1136,10 @@
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.0353,
                 "win_rate": 0.653
+            },
+            {
+                "name": "[Viktor]AIO",
+                "id": "[Viktor]Ezreal"
             }
         ],
         "pick_rate": 0.2338,
@@ -1296,10 +1152,6 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.2784,
                 "win_rate": 0.3099
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -1320,10 +1172,6 @@
                 "win_rate": 0.4722
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.3765,
@@ -1342,10 +1190,6 @@
                 "win_rate": 0.5902
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.064,
@@ -1356,10 +1200,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.782,
                 "win_rate": 0.6303
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1378,10 +1218,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0348,
                 "win_rate": 0.6
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -1408,10 +1244,6 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0035,
@@ -1424,10 +1256,6 @@
     "Ivern": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 1,
@@ -1436,10 +1264,6 @@
             {
                 "name": "RXing",
                 "id": "RXing"
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0023,
@@ -1452,10 +1276,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0286,
                 "win_rate": 0.6667
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -1474,10 +1294,6 @@
                 "id": "RXing",
                 "pick_rate": 0.019,
                 "win_rate": 0.3333
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0039,
@@ -1485,10 +1301,6 @@
     },
     "Belveth": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "IntAIO",
                 "id": "intnner_cn",
@@ -1508,8 +1320,8 @@
                 "win_rate": 0.644
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             }
         ],
         "pick_rate": 0.0126,
@@ -1522,10 +1334,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0773,
                 "win_rate": 0.6358
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "CXJ AIO",
@@ -1592,10 +1400,6 @@
                 "win_rate": 0.6735
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0045,
@@ -1612,10 +1416,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0335,
                 "win_rate": 0.5
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -1642,10 +1442,6 @@
                 "win_rate": 0.5111
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0168,
@@ -1662,10 +1458,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0156,
                 "win_rate": 0.5882
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -1698,10 +1490,6 @@
                 "win_rate": 0.7083
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0046,
@@ -1714,10 +1502,6 @@
     "Yorick": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.9098,
@@ -1728,10 +1512,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0902,
                 "win_rate": 0.6364
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0043,
@@ -1744,10 +1524,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0226,
                 "win_rate": 0.6491
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "DemonAIO",
@@ -1792,14 +1568,14 @@
                 "win_rate": 0.5404
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0455,
                 "win_rate": 0.6174
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1832,8 +1608,8 @@
                 "win_rate": 0.7576
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "EzAIO",
+                "id": "Ez_AIO"
             },
             {
                 "name": "Fx",
@@ -1866,6 +1642,10 @@
                 "win_rate": 0.6489
             },
             {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.1054,
@@ -1882,10 +1662,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0368,
                 "win_rate": 0.5833
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1906,10 +1682,6 @@
                 "win_rate": 0.6507
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0099,
@@ -1920,10 +1692,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.1601,
                 "win_rate": 0.6173
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1944,10 +1712,6 @@
                 "win_rate": 0.5851
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.2682,
@@ -1958,10 +1722,6 @@
                 "id": "KiriAIO",
                 "pick_rate": 0.1676,
                 "win_rate": 0.4667
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -1975,10 +1735,6 @@
     },
     "Chogath": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
@@ -2008,10 +1764,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0364,
                 "win_rate": 0.5556
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.012,
@@ -2030,10 +1782,6 @@
                 "id": "archer",
                 "pick_rate": 0.0004,
                 "win_rate": 1
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "DemonAIO",
@@ -2072,10 +1820,6 @@
                 "win_rate": 0.7385
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -2090,10 +1834,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0031,
                 "win_rate": 0.8571
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "DemonAIO",
@@ -2144,8 +1884,8 @@
                 "win_rate": 0.4545
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[HGPro]AIO",
@@ -2170,10 +1910,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0335,
                 "win_rate": 0.4762
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -2206,10 +1942,6 @@
                 "win_rate": 0.6867
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0128,
@@ -2228,10 +1960,6 @@
                 "win_rate": 0.6264
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx"
             },
@@ -2246,10 +1974,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.7896,
                 "win_rate": 0.6434
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -2274,10 +1998,6 @@
                 "id": "archer",
                 "pick_rate": 0.0071,
                 "win_rate": 0.5405
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "CXJ AIO",
@@ -2322,8 +2042,8 @@
                 "win_rate": 0.6788
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[HGVip]AIO",
@@ -2344,12 +2064,8 @@
     "Kled": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "Fx",
+                "id": "Fx"
             },
             {
                 "name": "[Viktor]AIO",
@@ -2370,10 +2086,6 @@
                 "win_rate": 0.75
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.8561,
@@ -2386,8 +2098,8 @@
                 "win_rate": 0.6061
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0069,
@@ -2402,8 +2114,8 @@
                 "win_rate": 0.5333
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
             },
             {
                 "name": "Fx",
@@ -2460,10 +2172,6 @@
                 "win_rate": 0.7056
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0043,
@@ -2494,8 +2202,8 @@
                 "win_rate": 0.6676
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "EzAIO",
+                "id": "Ez_AIO"
             },
             {
                 "name": "Fx",
@@ -2556,10 +2264,6 @@
                 "win_rate": 0.6514
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0012,
@@ -2571,10 +2275,6 @@
     },
     "Ekko": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
@@ -2588,10 +2288,6 @@
                 "win_rate": 0.5368
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -2600,16 +2296,7 @@
         "win_rate": 0.5747
     },
     "Fiddlesticks": {
-        "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            }
-        ]
+        "shards": []
     },
     "Kayn": {
         "shards": [
@@ -2618,10 +2305,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0138,
                 "win_rate": 0.4
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "JUST - AIO",
@@ -2640,10 +2323,6 @@
                 "id": "RXing",
                 "pick_rate": 0.0239,
                 "win_rate": 0.4231
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -2667,10 +2346,6 @@
     },
     "Jax": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -2708,10 +2383,6 @@
                 "win_rate": 0.5909
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             },
@@ -2740,10 +2411,6 @@
                 "win_rate": 0.625
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0214,
@@ -2768,14 +2435,14 @@
                 "win_rate": 0.6413
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0021,
                 "win_rate": 0.4286
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -2802,18 +2469,14 @@
     "Yuumi": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "Fx",
+                "id": "Fx"
             },
             {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.6034,
                 "win_rate": 0.5578
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -2834,10 +2497,6 @@
                 "win_rate": 0.4828
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "JUST - AIO",
                 "id": "JUST_AIO",
                 "pick_rate": 0.0436,
@@ -2848,10 +2507,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.7664,
                 "win_rate": 0.5691
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -2865,10 +2520,6 @@
     },
     "Heimerdinger": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
@@ -2894,10 +2545,6 @@
                 "win_rate": 0.5775
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0068,
@@ -2914,10 +2561,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.1091,
                 "win_rate": 0.5833
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "DemonAIO",
@@ -2944,8 +2587,8 @@
                 "win_rate": 0.4851
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0052,
@@ -2960,8 +2603,8 @@
                 "win_rate": 0.5405
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "CNo1AIO",
+                "id": "cno1_aio"
             },
             {
                 "name": "Fx",
@@ -2970,8 +2613,12 @@
                 "win_rate": 0.6022
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[HGVip]AIO",
@@ -3002,10 +2649,6 @@
                 "id": "archer",
                 "pick_rate": 0.0017,
                 "win_rate": 0.4
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "DemonAIO",
@@ -3044,6 +2687,10 @@
                 "win_rate": 0.6224
             },
             {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
+            },
+            {
                 "name": "MasterAio",
                 "id": "MasterAio",
                 "pick_rate": 0.0049,
@@ -3056,8 +2703,8 @@
                 "win_rate": 0.59
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -3084,10 +2731,6 @@
     "JarvanIV": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0066,
@@ -3104,10 +2747,6 @@
                 "id": "RXing",
                 "pick_rate": 0.016,
                 "win_rate": 0.4783
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -3140,18 +2779,10 @@
                 "win_rate": 0.6531
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9439,
                 "win_rate": 0.6085
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.011,
@@ -3164,10 +2795,6 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.6034,
                 "win_rate": 0.6286
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -3186,10 +2813,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1897,
                 "win_rate": 0.6364
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -3214,10 +2837,6 @@
                 "id": "archer",
                 "pick_rate": 0.0099,
                 "win_rate": 0.5122
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -3256,20 +2875,24 @@
                 "win_rate": 0.537
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0949,
                 "win_rate": 0.6071
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.023,
                 "win_rate": 0.6526
+            },
+            {
+                "name": "[Viktor]AIO",
+                "id": "[Viktor]Jhin"
             }
         ],
         "pick_rate": 0.0493,
@@ -3282,10 +2905,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0133,
                 "win_rate": 0.5833
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "CXJ AIO",
@@ -3306,10 +2925,6 @@
                 "win_rate": 0.4821
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0167,
@@ -3326,10 +2941,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.3092,
                 "win_rate": 0.6634
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -3360,10 +2971,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2051,
                 "win_rate": 0.7132
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0137,
@@ -3384,10 +2991,6 @@
                 "win_rate": 0.5556
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.0455,
@@ -3406,10 +3009,6 @@
                 "win_rate": 0.75
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.033,
@@ -3421,10 +3020,6 @@
     },
     "Illaoi": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -3442,10 +3037,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.286,
                 "win_rate": 0.6025
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0092,
@@ -3453,10 +3044,6 @@
     },
     "Viego": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "luna-aio",
                 "id": "~ LunaAIO",
@@ -3476,10 +3063,6 @@
                 "win_rate": 0.5819
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Viego",
                 "pick_rate": 0.0674,
@@ -3496,10 +3079,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0696,
                 "win_rate": 0.6373
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -3526,10 +3105,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0048,
@@ -3552,10 +3127,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0072,
                 "win_rate": 0.5538
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -3630,10 +3201,6 @@
                 "win_rate": 0.5891
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0022,
@@ -3656,10 +3223,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0166,
                 "win_rate": 0.7813
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -3686,6 +3249,10 @@
                 "win_rate": 0.875
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0205,
@@ -3696,10 +3263,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1093,
                 "win_rate": 0.7583
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -3720,10 +3283,6 @@
                 "win_rate": 0.6306
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0123,
@@ -3740,10 +3299,6 @@
                 "id": "MasterAio",
                 "pick_rate": 0.0087,
                 "win_rate": 0.6557
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[HGPro]AIO",
@@ -3774,10 +3329,6 @@
                 "win_rate": 0.6132
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0505,
@@ -3802,10 +3353,6 @@
                 "win_rate": 0.68
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian"
             }
@@ -3820,10 +3367,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.13,
                 "win_rate": 0.6531
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -3842,10 +3385,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2865,
                 "win_rate": 0.6574
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -3872,14 +3411,14 @@
                 "win_rate": 0.7857
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0088,
                 "win_rate": 0.7442
+            },
+            {
+                "name": "EzAIO",
+                "id": "Ez_AIO"
             },
             {
                 "name": "Fx",
@@ -3942,10 +3481,6 @@
                 "win_rate": 0.6552
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0516,
@@ -3968,10 +3503,6 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.4175,
                 "win_rate": 0.5254
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -3998,8 +3529,8 @@
                 "win_rate": 0.5616
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0143,
@@ -4020,10 +3551,6 @@
                 "win_rate": 0.6
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0122,
@@ -4040,6 +3567,10 @@
                 "id": "KiriAIO",
                 "pick_rate": 0.1941,
                 "win_rate": 0.6354
+            },
+            {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
             },
             {
                 "name": "Kornis AIO",
@@ -4060,14 +3591,14 @@
                 "win_rate": 0.6552
             },
             {
+                "name": "RXing",
+                "id": "RXing"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0855,
                 "win_rate": 0.6478
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4094,10 +3625,6 @@
                 "win_rate": 0.617
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0258,
@@ -4114,10 +3641,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1431,
                 "win_rate": 0.6233
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0264,
@@ -4130,10 +3653,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.1149,
                 "win_rate": 0.5319
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -4152,10 +3671,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.3252,
                 "win_rate": 0.5188
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4188,10 +3703,6 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0788,
@@ -4216,10 +3727,6 @@
                 "win_rate": 0.65
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0108,
@@ -4238,8 +3745,8 @@
                 "win_rate": 0.5622
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
             },
             {
                 "name": "Fx",
@@ -4260,10 +3767,6 @@
                 "win_rate": 0.575
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0238,
@@ -4276,8 +3779,8 @@
     "Qiyana": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
             },
             {
                 "name": "Fx",
@@ -4304,8 +3807,8 @@
                 "win_rate": 0.6053
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[HGVip]AIO",
@@ -4332,10 +3835,6 @@
                 "win_rate": 0.5429
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.0736,
@@ -4358,10 +3857,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0486,
                 "win_rate": 0.5641
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4392,10 +3887,6 @@
                 "id": "archer",
                 "pick_rate": 0.0462,
                 "win_rate": 0.6885
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -4434,10 +3925,6 @@
                 "win_rate": 0.6887
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0129,
@@ -4462,10 +3949,6 @@
                 "win_rate": 0.486
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.5789,
@@ -4482,10 +3965,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.186,
                 "win_rate": 0.4605
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4506,14 +3985,14 @@
                 "win_rate": 0.6364
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0523,
                 "win_rate": 0.5533
+            },
+            {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
             },
             {
                 "name": "Mage AIO",
@@ -4526,10 +4005,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0276,
                 "win_rate": 0.6058
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4555,10 +4030,6 @@
     },
     "LeeSin": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -4596,10 +4067,6 @@
                 "win_rate": 0.5847
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0159,
@@ -4634,10 +4101,6 @@
                 "id": "archer",
                 "pick_rate": 0.0033,
                 "win_rate": 0.6364
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -4682,10 +4145,6 @@
                 "win_rate": 0.6347
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0027,
@@ -4708,10 +4167,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0205,
                 "win_rate": 0.3333
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -4738,10 +4193,6 @@
                 "win_rate": 0.5192
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0034,
@@ -4758,10 +4209,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0332,
                 "win_rate": 0.5
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -4788,14 +4235,18 @@
                 "win_rate": 0.5697
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0643,
                 "win_rate": 0.5161
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0059,
@@ -4822,8 +4273,8 @@
                 "win_rate": 0.6111
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "DemonAIO",
+                "id": "Demon_Aio_"
             },
             {
                 "name": "Fx",
@@ -4874,10 +4325,6 @@
                 "win_rate": 0.619
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.003,
@@ -4906,10 +4353,6 @@
                 "id": "archer",
                 "pick_rate": 0.0055,
                 "win_rate": 0.75
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -4948,8 +4391,8 @@
                 "win_rate": 0.7496
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -4970,10 +4413,6 @@
                 "win_rate": 0.4615
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.116,
@@ -4992,10 +4431,6 @@
                 "win_rate": 0.5429
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0428,
@@ -5007,10 +4442,6 @@
     },
     "Lux": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -5046,10 +4477,6 @@
                 "win_rate": 0.6267
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0101,
@@ -5066,10 +4493,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.015,
                 "win_rate": 0.4615
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Kornis AIO",
@@ -5094,10 +4517,6 @@
                 "win_rate": 0.4722
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0104,
@@ -5116,10 +4535,6 @@
                 "win_rate": 0.619
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.8584,
@@ -5130,10 +4545,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0898,
                 "win_rate": 0.4808
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -5154,18 +4565,10 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9398,
                 "win_rate": 0.524
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0037,
@@ -5178,10 +4581,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0298,
                 "win_rate": 0.6364
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -5214,10 +4613,6 @@
                 "win_rate": 0.6835
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.1348,
@@ -5236,10 +4631,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.8928,
@@ -5250,10 +4641,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0973,
                 "win_rate": 0.6154
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0046,
@@ -5280,10 +4667,6 @@
                 "win_rate": 0.6905
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0086,
@@ -5308,14 +4691,14 @@
                 "win_rate": 0.7086
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0358,
                 "win_rate": 0.68
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -5329,10 +4712,6 @@
     },
     "MonkeyKing": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "IntAIO",
                 "id": "intnner_cn",
@@ -5358,10 +4737,6 @@
                 "win_rate": 0.6129
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0092,
@@ -5384,10 +4759,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0397,
                 "win_rate": 0.5841
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -5420,10 +4791,6 @@
                 "win_rate": 0.6024
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.033,
@@ -5440,10 +4807,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0379,
                 "win_rate": 0.6111
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -5470,10 +4833,6 @@
                 "win_rate": 0.5439
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0147,
@@ -5490,10 +4849,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0214,
                 "win_rate": 0.6364
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "CXJ AIO",
@@ -5518,10 +4873,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0953,
                 "win_rate": 0.4694
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0063,
@@ -5534,10 +4885,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0123,
                 "win_rate": 0.6
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -5562,10 +4909,6 @@
                 "win_rate": 0.6563
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0025,
@@ -5577,10 +4920,6 @@
     },
     "Neeko": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "IntAIO",
                 "id": "intnner_cn",
@@ -5606,10 +4945,6 @@
                 "win_rate": 0.7083
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.003,
@@ -5632,10 +4967,6 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.0355,
                 "win_rate": 0.685
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -5668,10 +4999,6 @@
                 "win_rate": 0.5706
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0073,
@@ -5702,10 +5029,6 @@
                 "win_rate": 0.6465
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "CXJ AIO",
                 "id": "CXJ_AIO"
             },
@@ -5734,14 +5057,14 @@
                 "win_rate": 0.6944
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0233,
                 "win_rate": 0.6762
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -5760,10 +5083,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0089,
                 "win_rate": 0.6667
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -5814,8 +5133,8 @@
                 "win_rate": 0.6961
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -5834,10 +5153,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0821,
                 "win_rate": 0.6765
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -5868,10 +5183,6 @@
                 "id": "MasterAio"
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0008,
@@ -5890,10 +5201,6 @@
                 "win_rate": 0.3333
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.6831,
@@ -5910,10 +5217,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2746,
                 "win_rate": 0.4359
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0037,
@@ -5926,10 +5229,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.1498,
                 "win_rate": 0.5405
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Hanbot Beasty ",
@@ -5948,10 +5247,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2227,
                 "win_rate": 0.5636
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0029,
@@ -5959,10 +5254,6 @@
     },
     "Seraphine": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
@@ -5976,8 +5267,8 @@
                 "win_rate": 0.5404
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.004,
@@ -5990,10 +5281,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.005,
                 "win_rate": 0.6667
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -6020,8 +5307,8 @@
                 "win_rate": 0.7273
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[Viktor]AIO",
@@ -6042,10 +5329,6 @@
                 "win_rate": 0.6057
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0468,
@@ -6062,10 +5345,6 @@
                 "id": "RXing",
                 "pick_rate": 0.2156,
                 "win_rate": 0.6627
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0096,
@@ -6080,10 +5359,6 @@
                 "win_rate": 0.6273
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0652,
@@ -6094,10 +5369,6 @@
                 "id": "intnner_cn",
                 "pick_rate": 0.0932,
                 "win_rate": 0.5667
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0038,
@@ -6112,8 +5383,8 @@
                 "win_rate": 0.5789
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "Fx",
+                "id": "Fx"
             },
             {
                 "name": "GG AIO",
@@ -6144,10 +5415,6 @@
                 "win_rate": 0.5362
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0036,
@@ -6172,10 +5439,6 @@
                 "win_rate": 0.8182
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0309,
@@ -6194,8 +5457,8 @@
                 "win_rate": 0.6973
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "MasterAio",
+                "id": "MasterAio"
             }
         ],
         "pick_rate": 0.0138,
@@ -6210,10 +5473,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0253,
@@ -6224,10 +5483,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.899,
                 "win_rate": 0.5449
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6248,10 +5503,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.1,
@@ -6262,10 +5513,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8818,
                 "win_rate": 0.5567
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0013,
@@ -6273,10 +5520,6 @@
     },
     "Rell": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "RXing",
                 "id": "RXing",
@@ -6288,10 +5531,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.4564,
                 "win_rate": 0.5056
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6312,10 +5551,6 @@
                 "win_rate": 0.3333
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0975,
@@ -6334,10 +5569,6 @@
                 "win_rate": 0.6078
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Renekton",
                 "pick_rate": 0.0654,
@@ -6350,8 +5581,8 @@
     "Rengar": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "ArcherAIO",
+                "id": "archer"
             },
             {
                 "name": "IntAIO",
@@ -6366,8 +5597,8 @@
                 "win_rate": 0.6031
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6387,10 +5618,6 @@
     },
     "Ryze": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -6416,8 +5643,8 @@
                 "win_rate": 0.6284
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[Viktor]AIO",
@@ -6442,10 +5669,6 @@
                 "id": "archer",
                 "pick_rate": 0.045,
                 "win_rate": 0.6935
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "CXJ AIO",
@@ -6500,6 +5723,10 @@
                 "win_rate": 0.6575
             },
             {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
+            },
+            {
                 "name": "MasterAio",
                 "id": "MasterAio",
                 "pick_rate": 0.0185,
@@ -6518,8 +5745,8 @@
                 "win_rate": 0.6778
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[HGVip]AIO",
@@ -6546,18 +5773,10 @@
                 "win_rate": 0.5152
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8893,
                 "win_rate": 0.6264
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0037,
@@ -6570,10 +5789,6 @@
                 "id": "archer",
                 "pick_rate": 0.0034,
                 "win_rate": 0.6111
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "GG AIO",
@@ -6612,8 +5827,8 @@
                 "win_rate": 0.6389
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6633,10 +5848,6 @@
     },
     "Sett": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "Kiri AIO",
                 "id": "KiriAIO",
@@ -6658,10 +5869,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1728,
                 "win_rate": 0.5894
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6686,18 +5893,10 @@
                 "win_rate": 0.5455
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "GG AIO",
                 "id": "GG AIO",
                 "pick_rate": 0.9061,
                 "win_rate": 0.6025
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6718,10 +5917,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8017,
@@ -6732,10 +5927,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1901,
                 "win_rate": 0.587
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.003,
@@ -6744,8 +5935,8 @@
     "Singed": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "Fx",
+                "id": "Fx"
             },
             {
                 "name": "SA_AIO",
@@ -6754,8 +5945,8 @@
                 "win_rate": 0.525
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             }
         ],
         "pick_rate": 0.0027,
@@ -6770,18 +5961,10 @@
                 "win_rate": 0.6889
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1182,
                 "win_rate": 0.6235
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[Viktor]AIO",
@@ -6808,8 +5991,8 @@
                 "win_rate": 0.5714
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "Fx",
+                "id": "Fx"
             },
             {
                 "name": "IntAIO",
@@ -6836,14 +6019,14 @@
                 "win_rate": 0.7818
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0271,
                 "win_rate": 0.6484
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6854,6 +6037,38 @@
         ],
         "pick_rate": 0.0419,
         "win_rate": 0.7366
+    },
+    "Smolder": {
+        "shards": [
+            {
+                "name": "CXJ AIO",
+                "id": "CXJ_AIO"
+            },
+            {
+                "name": "Fx",
+                "id": "Fx"
+            },
+            {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
+                "name": "RXing",
+                "id": "RXing"
+            },
+            {
+                "name": "SP-AIO",
+                "id": "SP-AIO"
+            },
+            {
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
+            }
+        ]
     },
     "Tristana": {
         "shards": [
@@ -6868,10 +6083,6 @@
                 "id": "archer",
                 "pick_rate": 0.0031,
                 "win_rate": 0.7368
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "DemonAIO",
@@ -6910,6 +6121,10 @@
                 "win_rate": 0.711
             },
             {
+                "name": "luna-aio",
+                "id": "~ LunaAIO"
+            },
+            {
                 "name": "MasterAio",
                 "id": "MasterAio",
                 "pick_rate": 0.0032,
@@ -6926,10 +6141,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0188,
                 "win_rate": 0.6724
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6956,18 +6167,10 @@
                 "win_rate": 0.6207
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.2857,
                 "win_rate": 0.5
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -6982,10 +6185,6 @@
     "Sona": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Healer AIO",
                 "id": "Healer_A.I.O.",
                 "pick_rate": 0.9528,
@@ -6996,10 +6195,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0472,
                 "win_rate": 0.7273
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0029,
@@ -7012,10 +6207,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0135,
                 "win_rate": 0.4
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -7048,10 +6239,6 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0054,
@@ -7068,10 +6255,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.022,
                 "win_rate": 0.8182
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -7104,10 +6287,6 @@
                 "win_rate": 0.6227
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.01,
@@ -7124,10 +6303,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0348,
                 "win_rate": 0.6139
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -7152,10 +6327,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.4898,
                 "win_rate": 0.6439
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7188,10 +6359,6 @@
                 "win_rate": 0.6572
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0367,
@@ -7222,10 +6389,6 @@
                 "win_rate": 0.5777
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0034,
@@ -7244,18 +6407,10 @@
                 "win_rate": 0.7647
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.2036,
                 "win_rate": 0.5373
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[Viktor]AIO",
@@ -7280,10 +6435,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0176,
                 "win_rate": 0.725
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -7320,10 +6471,6 @@
                 "win_rate": 0.639
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[HGVip]AIO",
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.0343,
@@ -7342,10 +6489,6 @@
                 "win_rate": 0.5957
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0327,
@@ -7358,14 +6501,14 @@
                 "win_rate": 0.75
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1449,
                 "win_rate": 0.4032
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7392,10 +6535,6 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.1533,
@@ -7412,10 +6551,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0333,
                 "win_rate": 0.2
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7436,10 +6571,6 @@
                 "win_rate": 0.6136
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.1146,
@@ -7458,6 +6589,10 @@
                 "win_rate": 0.5956
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0191,
@@ -7470,8 +6605,8 @@
                 "win_rate": 0.5484
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7490,10 +6625,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0233,
                 "win_rate": 0.5521
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -7516,10 +6647,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0209,
                 "win_rate": 0.6096
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7552,10 +6679,6 @@
                 "win_rate": 0.5263
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0837,
@@ -7572,10 +6695,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.8623,
                 "win_rate": 0.6754
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0194,
@@ -7584,8 +6703,8 @@
     "TwistedFate": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "EzAIO",
+                "id": "Ez_AIO"
             },
             {
                 "name": "Fx",
@@ -7600,10 +6719,18 @@
                 "win_rate": 0.676
             },
             {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0377,
                 "win_rate": 0.6602
+            },
+            {
+                "name": "MasterAio",
+                "id": "MasterAio"
             },
             {
                 "name": "RXing",
@@ -7616,10 +6743,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0574,
                 "win_rate": 0.6306
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7650,10 +6773,6 @@
                 "id": "archer",
                 "pick_rate": 0.0028,
                 "win_rate": 0.5
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -7698,10 +6817,6 @@
                 "win_rate": 0.6402
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0024,
@@ -7732,10 +6847,6 @@
                 "win_rate": 0.4615
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0148,
@@ -7752,10 +6863,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2,
                 "win_rate": 0.4074
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7776,10 +6883,6 @@
                 "win_rate": 0.3333
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0481,
@@ -7790,10 +6893,6 @@
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9409,
                 "win_rate": 0.598
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7824,10 +6923,6 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.0108,
                 "win_rate": 0.7348
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -7878,6 +6973,10 @@
                 "win_rate": 0.6591
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "RXing",
                 "id": "RXing",
                 "pick_rate": 0.0028,
@@ -7890,8 +6989,8 @@
                 "win_rate": 0.6269
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "SP-AIO",
+                "id": "SP-AIO"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -7918,10 +7017,6 @@
     "Velkoz": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0353,
@@ -7932,10 +7027,6 @@
                 "id": "hanbot_beasty",
                 "pick_rate": 0.0894,
                 "win_rate": 0.5439
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[HGVip]AIO",
@@ -7960,10 +7051,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0931,
                 "win_rate": 0.5846
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "Fx",
@@ -7994,10 +7081,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0838,
                 "win_rate": 0.6667
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0156,
@@ -8010,14 +7093,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0265,
                 "win_rate": 0.4375
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -8056,10 +7131,6 @@
                 "win_rate": 0.7244
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0071,
@@ -8078,6 +7149,10 @@
                 "win_rate": 0.7463
             },
             {
+                "name": "KleeAIO",
+                "id": "Klee_AIO"
+            },
+            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.0891,
@@ -8090,14 +7165,14 @@
                 "win_rate": 0.6
             },
             {
+                "name": "MasterAio",
+                "id": "MasterAio"
+            },
+            {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0257,
                 "win_rate": 0.6792
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -8112,18 +7187,14 @@
     "Vladimir": {
         "shards": [
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
+                "name": "RXing",
+                "id": "RXing"
             },
             {
                 "name": "SA_AIO",
                 "id": "SA_AIOCN",
                 "pick_rate": 0.1163,
                 "win_rate": 0.6211
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[Viktor]AIO",
@@ -8144,10 +7215,6 @@
                 "win_rate": 0.5
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.5633,
@@ -8158,10 +7225,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.2707,
                 "win_rate": 0.5484
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -8180,10 +7243,6 @@
                 "id": "AlexisAIO",
                 "pick_rate": 0.0586,
                 "win_rate": 0.5647
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "IntAIO",
@@ -8210,8 +7269,8 @@
                 "win_rate": 0.65
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "[BrianSharp] Successfull",
+                "id": "Brian"
             },
             {
                 "name": "[Viktor]AIO",
@@ -8232,14 +7291,14 @@
                 "win_rate": 0.5778
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "DemonAIO",
                 "id": "Demon_Aio_",
                 "pick_rate": 0.0064,
                 "win_rate": 0.6222
+            },
+            {
+                "name": "EzAIO",
+                "id": "Ez_AIO"
             },
             {
                 "name": "Fx",
@@ -8308,10 +7367,6 @@
                 "win_rate": 0.6568
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0064,
@@ -8328,6 +7383,10 @@
                 "id": "HuangGuanVipAIO",
                 "pick_rate": 0.2076,
                 "win_rate": 0.6225
+            },
+            {
+                "name": "[Viktor]AIO",
+                "id": "[Viktor]Yasuo"
             }
         ],
         "pick_rate": 0.1751,
@@ -8342,10 +7401,6 @@
                 "win_rate": 0.6667
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "IntAIO",
                 "id": "intnner_cn",
                 "pick_rate": 0.0947,
@@ -8356,10 +7411,6 @@
                 "id": "RXing",
                 "pick_rate": 0.5895,
                 "win_rate": 0.4464
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -8380,10 +7431,6 @@
                 "win_rate": 0.6098
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0104,
@@ -8400,10 +7447,6 @@
                 "id": "SA_AIOCN",
                 "pick_rate": 0.0215,
                 "win_rate": 0.5364
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             },
             {
                 "name": "[Viktor]AIO",
@@ -8424,10 +7467,6 @@
                 "win_rate": 0.5546
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Fx",
                 "id": "Fx",
                 "pick_rate": 0.0765,
@@ -8446,10 +7485,6 @@
                 "win_rate": 0.6343
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0081,
@@ -8461,10 +7496,6 @@
     },
     "Zilean": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "IntAIO",
                 "id": "intnner_cn",
@@ -8484,10 +7515,6 @@
                 "win_rate": 0.6325
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[BrianSharp] Successfull",
                 "id": "Brian",
                 "pick_rate": 0.0016,
@@ -8499,10 +7526,6 @@
     },
     "Zoe": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -8528,10 +7551,6 @@
                 "win_rate": 0.5652
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
                 "name": "[Viktor]AIO",
                 "id": "[Viktor]Zoe",
                 "pick_rate": 0.1667,
@@ -8550,18 +7569,14 @@
                 "win_rate": 0.6552
             },
             {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
-            {
                 "name": "Kornis AIO",
                 "id": "KorniAIOMeow",
                 "pick_rate": 0.9318,
                 "win_rate": 0.5784
             },
             {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
+                "name": "RXing",
+                "id": "RXing"
             },
             {
                 "name": "[BrianSharp] Successfull",
@@ -8575,10 +7590,6 @@
     },
     "Briar": {
         "shards": [
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
-            },
             {
                 "name": "Fx",
                 "id": "Fx",
@@ -8596,14 +7607,6 @@
                 "id": "RXing",
                 "pick_rate": 0.4573,
                 "win_rate": 0.5933
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
-            },
-            {
-                "name": "[BrianSharp] Successfull",
-                "id": "Brian"
             }
         ],
         "pick_rate": 0.0098,
@@ -8616,10 +7619,6 @@
                 "id": "cno1_aio",
                 "pick_rate": 0.0928,
                 "win_rate": 0.501
-            },
-            {
-                "name": "Custom Permashow",
-                "id": "Permashow_custom"
             },
             {
                 "name": "CXJ AIO",
@@ -8638,10 +7637,6 @@
                 "id": "RXing",
                 "pick_rate": 0.0303,
                 "win_rate": 0.4611
-            },
-            {
-                "name": "[BrianSharp] Activator",
-                "id": "BrianActivator"
             }
         ],
         "pick_rate": 0.0637,
